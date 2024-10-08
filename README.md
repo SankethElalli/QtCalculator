@@ -2,7 +2,7 @@
 
 This project is a **Qt-based Calculator** built using C++ with a graphical user interface (GUI). The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-![Calculator Interface](GUI.gif)
+![Calculator Interface](GUI)
 
 ## Features
 
