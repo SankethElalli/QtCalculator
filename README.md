@@ -26,4 +26,4 @@ To run this project, you will need:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/Calculator_WriterBoard.git
+   git clone https://github.com/SankethElalli/QCalc.git
