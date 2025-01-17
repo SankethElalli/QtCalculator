@@ -1,4 +1,4 @@
-# CQCalc
+# QCalc
 
 This project is a **Qt-based Calculator** built using C++ with a graphical user interface (GUI). The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
