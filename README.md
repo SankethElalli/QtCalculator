@@ -19,7 +19,6 @@ To run this project, you will need:
 - **C++17**: As the programming language.
 - **CMake**: For building the project.
 - **MinGW**: To compile the project (on Windows).
-- **Visual Studio Code**: Recommended for development.
 
 ## How to Run
 
