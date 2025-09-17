@@ -8,7 +8,7 @@ This project is a **Qt-based Calculator** built using C++ with a graphical user 
 
 - **Basic Arithmetic**: Supports addition, subtraction, multiplication, and division.
 - **Clear Function**: Reset the calculator to start fresh.
-- **GUI**: Easy-to-use graphical user interface built with Qt.
+- **GUI**: Easy-to-use graphical user interface built with Qt Framework.
 - **Responsive Buttons**: Each button responds to user input and performs the respective function.
 
 ## Requirements
